@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+background-image: url(img/fondo.jpg);    
+}
+
+.verde{
+    color:  green;
+}
+.rojo{
+    color:  red;
+}
